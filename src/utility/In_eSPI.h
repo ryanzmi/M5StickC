@@ -416,6 +416,8 @@
 
   // Call up any user custom fonts
   // #include <User_Setups/User_Custom_Fonts.h>
+  #include <Fonts/Custom/Various_Symbols_32x32.h> //  CF_VARS
+
   // New custom font file #includes
   #include <Fonts/Custom/Orbitron_Light_24.h> // CF_OL24
   #include <Fonts/Custom/Orbitron_Light_32.h> // CF_OL32
